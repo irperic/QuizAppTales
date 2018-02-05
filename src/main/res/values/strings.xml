@@ -1,0 +1,61 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">Qiuz App Currencies</string>
+
+    <!--Enter Your Name Field-->
+    <string name="enter_your_name">Enter Your Name</string>
+
+    <!--Explanation-->
+    <string name="explanation">The first question is 2 points. The other questions are 1 point. Maximum number of points is 6.</string>
+
+    <!--Question 1-->
+    <string name="num_question_1">Question 1</string>
+    <string name="question_1">In fairy-tale, The Wizard of Oz, Dorothy on the way meets Scarecrow and ... (There may be more accurate answers.)</string>
+
+    <!--Answers to the question 1-->
+    <string name="answer_1_1_Woodcutter">Woodcutter</string>
+    <string name="answer_1_2_Tinsmith">Tinsmith</string>
+    <string name="answer_1_3_Hunter">Hunter</string>
+    <string name="answer_1_4_Lion">Lion</string>
+
+    <!--Question 2-->
+    <string name="num_question_2">Question 2</string>
+    <string name="question_2">How long was Sleeping Beauty sleeping?</string>
+
+    <!--Answers to the question 2-->
+    <string name="answer_2_1_10Years">10</string>
+    <string name="answer_2_2_200Years">200</string>
+    <string name="answer_2_3_100Years">100</string>
+
+    <!--Question 3-->
+    <string name="num_question_3">Question 3</string>
+    <string name="question_3">How many dwarfs are there in the story of Snow White?</string>
+
+    <!--Answers to the question 3-->
+    <string name="answer_3_1_6Dwarfs">6</string>
+    <string name="answer_3_2_7Dwarfs">7</string>
+    <string name="answer_3_3_5Dwarfs">5</string>
+
+    <!--Question 4-->
+    <string name="num_question_4">Question 4</string>
+    <string name="question_4">How much is it Cinderella had the evil half-siblings?</string>
+
+    <!--Answers to the question 4-->
+    <string name="answer_4_1_2HalfSiblings">2</string>
+    <string name="answer_4_2_3HalfSiblings">3</string>
+    <string name="answer_4_3_7HalfSiblings">7</string>
+
+    <!--Question 5-->
+    <string name="num_question_5">Question 5</string>
+    <string name="question_5">Which figure of fairy tale will always remain a boy?</string>
+
+    <!--Answers to the question 5-->
+    <string name="answer_5_1_PrinceValiant">Prince Valiant</string>
+    <string name="answer_5_2_PeterPan">Peter Pan</string>
+    <string name="answer_5_3_PussInBoots">Puss in Boots</string>
+
+    <!--Button "End Test"-->
+    <string name="final_Result">Score</string>
+
+</resources>
+
